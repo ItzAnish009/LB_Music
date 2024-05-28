@@ -31,7 +31,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "anishmusic76")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", "HRKU-3d7d7f18-527f-44b9-b150-6ed19a92bf9b")
 
 UPSTREAM_REPO = getenv(
-    "UPSTREAM_REPO", "https://github.com/ItzAnish009/LB_Music/edit/master/config.py", # dont Change this otherwise u get error 🧧
+    "UPSTREAM_REPO", "https://github.com/Learningbots79/LB_Music", # dont Change this otherwise u get error 🧧
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
